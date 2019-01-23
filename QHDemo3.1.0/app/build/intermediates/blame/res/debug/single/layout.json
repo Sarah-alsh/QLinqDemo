@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\divider_vertical.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\divider_vertical.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_to_text.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\item_chat_to_text.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_header.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\refresh_header.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_picture.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\item_picture.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friend.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\activity_friend.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friend_detail.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\activity_friend_detail.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tip.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\tip.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_robot.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\activity_robot.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_session.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\fragment_session.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_to_image.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\item_chat_to_image.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgot_password.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_main.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\tab_main.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_test.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\fragment_test.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_friend.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\item_friend.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_footer.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\refresh_footer.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_picture_detail.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\activity_picture_detail.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_auth_login.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\activity_auth_login.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\divider_horizontal.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\divider_horizontal.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_from_text.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\item_chat_from_text.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_message.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\tab_message.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_picture.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\activity_picture.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_chat_more.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\tab_chat_more.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_progress.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_from_image.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\item_chat_from_image.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_robot.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\activity_select_robot.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

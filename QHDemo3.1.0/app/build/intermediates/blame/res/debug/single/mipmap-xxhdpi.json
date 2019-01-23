@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icon_check_normal.png",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_check_normal.png"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icon_control_point.png",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_control_point.png"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icon_loading_white.png",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_loading_white.png"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\bg_splash.png",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_splash.png"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icon_back.png",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_back.png"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icon_check_select.png",
+        "source": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_check_select.png"
+    }
+]

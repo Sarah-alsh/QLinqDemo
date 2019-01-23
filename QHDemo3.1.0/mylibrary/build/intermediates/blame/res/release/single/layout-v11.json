@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\mylibrary\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\mylibrary\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\mylibrary\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\mylibrary\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\mylibrary\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\mylibrary\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    }
+]

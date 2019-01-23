@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\mylibrary\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    }
+]

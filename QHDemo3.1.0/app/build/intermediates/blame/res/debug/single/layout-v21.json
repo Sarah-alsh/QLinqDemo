@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\sarah\\.android\\build-cache\\06d0607dfbdc60f0b64eb122736126f25807b846\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

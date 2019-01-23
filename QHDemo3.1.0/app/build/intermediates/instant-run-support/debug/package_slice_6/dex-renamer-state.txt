@@ -1,0 +1,4 @@
+#Tue Jan 22 23:46:17 GMT+03:00 2019
+base.0=D\:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=D\:\\MW\\QHDemo3.1.0-20190122T200814Z-001\\QHDemo3.1.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex
